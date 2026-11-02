@@ -2,6 +2,14 @@
 
 Project website for **Temporal Prototype Alignment for Frozen-Feature Dataset Distillation**, NeurIPS 2026.
 
+Rui Ding<sup>1</sup>, Jing Hu<sup>1</sup>, Mei Chen<sup>1</sup>, Xi Wu<sup>1</sup><br>
+Hualin Zhou<sup>3</sup>, Fan Wu<sup>2</sup>, Kehua Guo<sup>2*</sup>, Tao Gu<sup>3</sup>
+
+<sup>1</sup> Chengdu University of Information Technology<br>
+<sup>2</sup> Central South University · <sup>3</sup> Macquarie University
+
+\* Corresponding author: Kehua Guo.
+
 [Project page](https://ruiding1.github.io/TPA-project/) · [Paper](https://ruiding1.github.io/TPA-project/assets/TPA-paper.pdf) · [Poster](https://ruiding1.github.io/TPA-project/assets/TPA-poster.pdf)
 
 ## Contents
